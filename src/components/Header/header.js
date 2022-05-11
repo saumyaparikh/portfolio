@@ -59,7 +59,7 @@ function Header() {
                   rel="noreferrer noopener"
                   className="nav-link active"
                   aria-current="page"
-                  href="https://drive.google.com/file/d/1sLjIYtfCnJHAmLSScPZUZf5LLjXBQP-C/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1zHWW949n-kFn_Q07Gd_D6eQOQicytNAp/view?usp=sharing"
                 >
                   Resume
                 </a>
