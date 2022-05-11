@@ -5,7 +5,7 @@ function Header() {
     <>
       <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
-          <div className="navbar-brand mx-5">
+          <div className="navbar-brand ">
             <b>
               <span className="navlogo">100</span>म्य
             </b>
