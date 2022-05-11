@@ -1,0 +1,48 @@
+.heading {
+  font-size: 30px;
+  text-align: center;
+  font-weight: 600;
+}
+.section-title {
+  font-size: 32px;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  padding: 6%;
+}
+
+.contantdetail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 2px;
+  font-size: 20px;
+  padding-bottom: 2%;
+}
+.emailup {
+  text-decoration: none;
+}
+.email {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 2px;
+  font-size: 20px;
+  color: black;
+  padding-bottom: 2%;
+}
+.socialimg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  height: 40px;
+  margin: 6px;
+  color: black;
+}
+.img:hover {
+  color: #00b3ff;
+}
